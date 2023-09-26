@@ -2,7 +2,7 @@
 This HTML and CSS code creates a responsive web page with the following features:
 
 It defines the HTML structure with metadata for character encoding and viewport settings.
-External resources are linked, including Google Fonts for the Roboto font and an external CSS file named "project6.css."
+External resources are linked, including Google Fonts for the Roboto font and an external CSS file named "project.css."
 The content is organized into sections, including an introduction, quality designs, customization details, and information about care.
 CSS styles are applied for formatting and layout, including font choices, colors, and responsive design.
 The design incorporates responsive techniques like fluid images, flexible layout with Flexbox, and media queries for screen-size-specific adjustments.
