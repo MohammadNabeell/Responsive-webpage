@@ -9,3 +9,5 @@ The design incorporates responsive techniques like fluid images, flexible layout
 Different sections have distinct background colors and text colors for visual contrast.
 The CSS code defines font sizes, line heights, and spacing for typography.
 Media queries trigger layout changes for screens wider than 800px, making elements display as flex items with specific spacing.
+
+https://github.com/MohammadNabeell/Responsive-webpage/assets/138374517/b16cea29-5987-4ef9-905c-97c584720098
